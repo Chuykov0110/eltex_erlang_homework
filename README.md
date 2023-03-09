@@ -1,1 +1,1 @@
-# eltex_erlang_homework
+# Домашка
